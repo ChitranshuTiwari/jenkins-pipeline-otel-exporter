@@ -1,6 +1,6 @@
 # Jenkins Pipeline OpenTelemetry Exporter
 
-> A hands-on DevOps portfolio project demonstrating OpenTelemetry instrumentation for CI/CD pipelines. Built for learning and GSoC preparation.
+> A hands-on DevOps portfolio project demonstrating OpenTelemetry instrumentation for CI/CD pipelines.
 
 Proof-of-concept: Instrument a CI/CD pipeline with OpenTelemetry traces for observability.
 
